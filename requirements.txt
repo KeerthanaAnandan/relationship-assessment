@@ -1,0 +1,67 @@
+Quiz Title: Are you over the breakup? Find out where to stand.
+
+“Take the quiz to find out”
+
+Font color:
+hex# e10f45
+hex # d6d6d6
+Accent color white
+
+Q’s for quiz
+1.How often do you think of your ex?
+Never- 5 points
+once a week- 4points
+every day- 2 points
+multiple times a day1- point
+
+2.Do you blame yourself?
+No- 5 points
+somewhat- 4 points
+yes- 2 points
+absolutely- 1 point
+
+3.How would you describe the way you feel?
+I’ve moved on- 5 points
+I feel somewhat sad but I’ll get over it-4 points
+I’m hurting- 2 points
+The pain is unbearable- 1point
+
+4. What was the cause for the breakup? Cheating-1
+lack of communication- 1
+abuse- 1
+something else-1
+
+5.Are you ready to date again? Absolutely-1 point
+In The future- 2 points
+no time soon- 4points
+never again-5 points
+
+6.Who broke up with who?
+He broke up with you- 2 points
+you broke up with him -5points
+It was mutual-4points
+you still don’t know-2points
+
+7.Given the chance would you get back with you ex?
+Absolutely not- 5points
+maybe- 3points
+Yea-2points
+In a minute-1points
+
+8.You find an expensive piece of jewelry that belongs to your ex you ?
+donate it-3 points
+give it back to them-4points
+keep it to remember them by-1point
+break it into a million pieces -2points
+
+Score: 29-35 points
+You are completely over him. You don’t really feel sad and you are ready to move on. You may be just a little sad but it won’t last long.
+
+Score: 15-27 points
+You still have some feeling for him. You’re not quite through the thick of it. You’re not extremely grief stricken but it will take you some time to move on.
+
+Score : 10-14
+You clearly are not over the breakup. You are constantly thinking of him, what he did wrong, what you did wrong. Your mind is probably racing with thoughts of the relationship all day. It will definitely take some time to heal and move on.
+
+Score: 9 and below
+This breakup has affected you in a terrible way. You are hurting and severly damaged from this. It won’t hurt to speak to someone. You will get through this with time and healing.

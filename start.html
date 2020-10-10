@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Breakup quiz</title>
+    <link rel="stylesheet" href="./dist/css/style.css" />
+
+    <style>
+      :root {
+        background-image: url("./assets/main.jpeg");
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+        opacity: 0.8;
+      }
+      /* #btn {
+        width: 20rem;
+        padding: 20px;
+        margin-top: 20px;
+        margin-left: 450px;
+        background-color: #e10f45;
+        color: #000000;
+        cursor: pointer;
+        text-decoration: none;
+        border: 1px black solid;
+        border-radius: 1px;
+      }*/
+      .btn {
+        font-size: 1.8rem;
+        padding: 1rem 0;
+        width: 10rem;
+        text-align: center;
+        border: 0.1rem solid black;
+        margin-bottom: 1rem;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #e10f45;
+        border-radius: 3px;
+      }
+
+      .btn:hover {
+        cursor: pointer;
+        box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 05);
+        transition: transform 150ms;
+      }
+
+      #btn:hover {
+        background-color: #d6d6d6;
+        border: 2px #d6d6d6 solid;
+      }
+      .container {
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        max-width: 40rem;
+        margin: 0 auto;
+        padding: 2rem;
+      }
+
+      .container > * {
+        width: 100%;
+      }
+      .head {
+        background-color: #e14f45;
+        color: white;
+        font-weight: bolder;
+        font-size: 50px;
+      }
+      @media (max-width: 240px) {
+        .head {
+          font-size: 20px;
+        }
+        .btn {
+          font-size: 1rem;
+          padding: 0.5rem 0;
+          width: 2rem;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div>
+      <p class="head">Are you over the breakup? Find out where to stand.</p>
+
+      <form
+        class="welcome_form container"
+        name="welcome_form"
+        onsubmit="submitForm(event)"
+      >
+        <button class="btn">“Take the quiz to find out”</button>
+      </form>
+
+      <br />
+    </div>
+
+    <script src="dist/js/start.js"></script>
+  </body>
+</html>
