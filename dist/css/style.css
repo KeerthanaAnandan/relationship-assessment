@@ -175,34 +175,7 @@ body {
   margin-top: 15px;
 }
 
-/*.container {
-  display: block;
-  margin: 20% auto;
-  text-align: center;
-  color: rgb(241, 241, 240);
-  font-size: large;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-}
-.head {
-  background-color: #e10f40;
-  text-align: center;
-
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-  font-size: 50px;
-  font-weight: bold;
-  color: #141313;
-}*/
-
 @media (max-width: 540px) {
-  /*.container {
-    display: block;
-    /*margin: 50% 1%;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-  }*/
-
   .typo {
     font-size: 8px;
   }
@@ -221,7 +194,7 @@ body {
   #progressBar {
     width: 15rem;
     height: 2rem;
-    border: 0.2rem solid #e10f45;
+    border: 0.15rem solid #e10f45;
   }
 
   #progressBarFull {
@@ -230,7 +203,8 @@ body {
     width: 2%;
   }
   .award_icon {
-    height: 50vh;
-    width: fit-content;
+    /*height: 50vh;
+    width: fit-content;*/
+    display: none;
   }
 }
