@@ -219,7 +219,7 @@ body {
     transition: 0.4s all;
   }
   #progressBar {
-    width: 7rem;
+    width: 15rem;
     height: 2rem;
     border: 0.2rem solid #e10f45;
   }
