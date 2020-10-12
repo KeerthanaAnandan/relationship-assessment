@@ -139,16 +139,16 @@ body {
   cursor: pointer;
   /* background-color: rgba(255, 255, 255, 0.1); */
   border: 2px solid #000000;
-  color: #e10f40;
+  color: #e10f45;
 }
 .option.active {
-  background-color: #e10f50;
+  background-color: e10f45;
   color: #fff;
 }
 .btn-next {
   border: none;
   padding: 15px 35px;
-  background-color: #e10f60;
+  background-color: e10f45;
   color: #fff;
   border-radius: 2px;
   transition: 0.4s all;
