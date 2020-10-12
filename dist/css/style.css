@@ -142,13 +142,13 @@ body {
   color: #e10f45;
 }
 .option.active {
-  background-color: e10f45;
+  background-color: #e10f45;
   color: #fff;
 }
 .btn-next {
   border: none;
   padding: 15px 35px;
-  background-color: e10f45;
+  background-color: #e10f45;
   color: #fff;
   border-radius: 2px;
   transition: 0.4s all;
@@ -188,7 +188,7 @@ body {
     margin-bottom: 20px;
     padding: 15px 20px;
     border-radius: 10px;
-    border: 2px solid transparent;
+    border: 2px solidf transparent;
     transition: 0.4s all;
   }
   #progressBar {
